@@ -1,0 +1,4 @@
+entity/Customer_.class
+CustomerFacade/CustomerFacade.class
+entity/Customer.class
+entity/EntityTested.class
